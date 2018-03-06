@@ -270,7 +270,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#684568;}
 .overlay{color:#FFFFFF; background-color:inherit;}
 .overlay::after{color:inherit; background-color:rgba(129,112,129,.4); /* #817081 */}
 .btn, .btn.inverse:hover{color:inherit; background-color:transparent; border-color:inherit;}
-.btn:hover, .btn.inverse{color:#FFFFFF; background-color:#684568; border-color:#684568;}
+.btn:hover, .btn.inverse{color:#FFFFFF; background-color:#f26522/*#684568*/; border-color:#f26522/*#684568*/;}
 
 
 /* Rows */
