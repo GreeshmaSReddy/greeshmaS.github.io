@@ -305,7 +305,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#684568;}
 /* Shout - 3 Boxes */
 #shout figure{color:rgba(0,0,0,.3);}/* This actually sets the box shadow colour as the colour is inherited - it's a workaround */
 #shout figure figcaption a{color:#FFFFFF; background-color:rgba(0,0,0,.5);}
-#shout figure:hover figcaption a{background-color:#684568;}
+#shout figure:hover figcaption a{background-color:#f26522/*#684568*/;}
 
 
 /* Content Area */
