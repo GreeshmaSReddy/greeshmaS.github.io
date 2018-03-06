@@ -320,9 +320,9 @@ input:focus, textarea:focus, *:required:focus{border-color:#684568;}
 
 /* Coloured Boxes */
 .clrbox{color:#FFFFFF;}
-.clrbox li:nth-of-type(1){background-color:rgba(129,112,129,.8); /* #817081 */}
-.clrbox li:nth-of-type(2){background-color:rgba(129,112,129,.5); /* #817081 */}
-.clrbox li:nth-of-type(3){background-color:rgba(129,112,129,.8); /* #817081 */}
+.clrbox li:nth-of-type(1){background-color:#f26522/*rgba(129,112,129,.8);#817081 */}
+.clrbox li:nth-of-type(2){background-color:#FF7F50;/*rgba(129,112,129,.5);  #817081 */}
+.clrbox li:nth-of-type(3){background-color:#f26522;/*rgba(129,112,129,.8);  #817081 */}
 .clrbox li:hover .btn{color:#684568; background-color:#FFFFFF; border-color:#FFFFFF;}
 
 
