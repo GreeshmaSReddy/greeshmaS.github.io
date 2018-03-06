@@ -338,7 +338,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#684568;}
 #mainav li a{color:inherit; background-color:inherit; border-color:#F2F2F2;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#684568; background-color:inherit;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color:rgba(0,0,0,.6); border-color:rgba(0,0,0,.6);}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#684568;}
+#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#f26522/*#684568*/;}
 #mainav form select{color:#888888; background-color:#FFFFFF; border-color:#F2F2F2;}
 
 #breadcrumb a{color:#FFFFFF; background-color:inherit;}
