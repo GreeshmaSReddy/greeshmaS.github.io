@@ -274,7 +274,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#684568;}
 
 
 /* Rows */
-.row0{color:#FFFFFF; background-color:rgba(215,215,215,.8); /* #D7D7D7 */}
+.row0{color:#FFFFFF; background-color:#f26522/*rgba(215,215,215,.8);#D7D7D7 */}
 .row1{color:#817081; background-color:rgba(255,255,255,.8); border-color:#F2F2F2;}
 .row2{color:#888888; background-color:#FFFFFF; border-color:#F2F2F2;}
 .row3{color:#888888; background-color:#FFFFFF;}
